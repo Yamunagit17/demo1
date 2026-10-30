@@ -1,9 +1,9 @@
 # Student Information Program
 
-name = "Priya"
-roll_no = 101
-course = "BCA"
-marks = 85
+name = "David"
+roll_no = 111
+course = "MBA"
+marks = 96
 
 print("Student Information")
 print("-------------------")
